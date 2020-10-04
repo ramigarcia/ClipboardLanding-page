@@ -1,3 +1,6 @@
+# Link de el challenge terminado:
+https://ramigarcia.github.io/ClipboardLanding-page/
+
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
